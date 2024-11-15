@@ -1,0 +1,122 @@
+[
+    {
+        "title": "Python-разработчик (Junior - Middle)",
+        "url": "https://hh.ru/vacancy/110423905",
+        "salary": 70000,
+        "description": "Профильное образование или опыт коммерческой разработки от 3 лет. Уверенный пользователь Linux (Debian, Ubuntu). Опыт работы с DevOps. Знание <highlighttext>Celery</highlighttext>."
+    },
+    {
+        "title": "Backend-разработчик",
+        "url": "https://hh.ru/vacancy/109480482",
+        "salary": 150000,
+        "description": "Django 3.2-4.2. DRF. <highlighttext>Celery</highlighttext>. SQLAlchemy. PostgreSQL. PostGIS. Redis. RabbitMQ. Pytest. Docker. K8S. Swagger. "
+    },
+    {
+        "title": "Python developer Junior + / Middle",
+        "url": "https://hh.ru/vacancy/110817030",
+        "salary": 0,
+        "description": "Опыт разработки на Python от полугода. Знание алгоритмов и структур данных+ умение применить на практике. Понимание REST API. "
+    },
+    {
+        "title": "Python/Django Junior Backend-разработчик",
+        "url": "https://hh.ru/vacancy/110134917",
+        "salary": 60000,
+        "description": "Наличие примеров работ в git. Опыт работы с асинхронным python. Опыт деплоя проектов. Опыт работы с <highlighttext>celery</highlighttext>, redis, docker, supervisor."
+    },
+    {
+        "title": "Junior разработчик Python/Стажер (удаленно)",
+        "url": "https://hh.ru/vacancy/110646300",
+        "salary": 0,
+        "description": "Обязателен опыт работы над коммерческим или опен-сорс проектом в команде, с Mongodb, rest api, bash, linux, Git, fastapi, <highlighttext>celery</highlighttext>."
+    },
+    {
+        "title": "Middle Python Backend Developer",
+        "url": "https://hh.ru/vacancy/110804024",
+        "salary": 160000,
+        "description": "Знание ORM SQLAlchemy для работы с базами данных. - Опыт работы с <highlighttext>Celery</highlighttext> и RabbitMQ. - Уверенные навыки работы с PostgreSQL и..."
+    },
+    {
+        "title": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/109217414",
+        "salary": 0,
+        "description": "Опыт работы с системами очередей и задачами фоновой обработки (<highlighttext>Celery</highlighttext>). Уверенное владение SQL и умение писать сложные запросы. "
+    },
+    {
+        "title": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/109446569",
+        "salary": 0,
+        "description": "Технологии и инструменты:"
+    },
+    {
+        "title": "Разработчик Python, Django",
+        "url": "https://hh.ru/vacancy/110372046",
+        "salary": 0,
+        "description": "Django Core: MVT архитектура, Django ORM, CBV/FBV, роутинг. 9. Асинхронность: <highlighttext>Celery</highlighttext>, Django Channels. 10. Опыт работы с Git glow..."
+    },
+    {
+        "title": "Бэкенд-разработчик Python / Backend Python Developer (Middle)",
+        "url": "https://hh.ru/vacancy/108813229",
+        "salary": 180000,
+        "description": "Понимание основ безопасности веб-приложений и внедрение мер для защиты данных. Опыт работы с <highlighttext>Celery</highlighttext> и Redis. Опыт написания тестов..."
+    },
+    {
+        "title": "Middle Python Back-end Developer",
+        "url": "https://hh.ru/vacancy/110656065",
+        "salary": 0,
+        "description": "Опыт работы с брокерами сообщений (Kafka, RabbitMQ), с очередями задач (<highlighttext>Celery</highlighttext>). Опыт работы с Docker, git, CLI. Навыки работы в..."
+    },
+    {
+        "title": "Backend разработчик (Python)",
+        "url": "https://hh.ru/vacancy/108972260",
+        "salary": 0,
+        "description": "Опыт работы с AWS, Google Cloud или другими облачными сервисами. Опыт работы с <highlighttext>Celery</highlighttext> или другими асинхронными фреймворками. "
+    },
+    {
+        "title": "Python программист (удаленно)",
+        "url": "https://hh.ru/vacancy/110099099",
+        "salary": 270000,
+        "description": "Knowledge of Databases (PostgreSQL, Clickhouse, NoSQL databases). Strong understanding of web performance optimization techniques. Knowledge of <highlighttext>Celery</highlighttext>, Clickhouse, Langchain."
+    },
+    {
+        "title": "Trainee/Intern/Junior Python backend developer",
+        "url": "https://hh.ru/vacancy/110466157",
+        "salary": 20000,
+        "description": "Для этого мы ищем начинающего, сообразительного, шустрого, амбициозного интерна-джуна питониста. Опыт в коммерческой разработке не требуется – важнее навык быстро..."
+    },
+    {
+        "title": "Junior Python Developer",
+        "url": "https://hh.ru/vacancy/107013325",
+        "salary": 50000,
+        "description": "Знание языка Python с опытом работы над собственными проектами. Опыт работы с системой контроля версий GIT. Опыт работы с базами..."
+    },
+    {
+        "title": "Программист Python (внутренние проекты) / Python Developer (internal projects)",
+        "url": "https://hh.ru/vacancy/110607304",
+        "salary": 0,
+        "description": "Опыт разработки на Python от 1 года, знание asyncio. Опыт работы с базами данных (Postgres/MongoDB), очередями сообщений (RabbitMQ), веб..."
+    },
+    {
+        "title": "Python-разработчик",
+        "url": "https://hh.ru/vacancy/110669708",
+        "salary": 0,
+        "description": "Знание web-фреймворков Django, Django Rest Framework, <highlighttext>Celery</highlighttext>. Хорошее знание принципов работы реляционных баз данных. Знание Raw SQL. "
+    },
+    {
+        "title": "Разработчик Python (Удаленно)",
+        "url": "https://hh.ru/vacancy/110610086",
+        "salary": 230000,
+        "description": "Поиск и исправление ошибок в Python-приложениях. Опыт работы с Python, Django, DRF, Flask, SqlAlchemy, <highlighttext>Celery</highlighttext>, Docker. Работа с ПО..."
+    },
+    {
+        "title": "Fullstack-разработчик NextJS, React, Python, Django",
+        "url": "https://hh.ru/vacancy/111030506",
+        "salary": 300000,
+        "description": "Знание TypeScript, опыт тестирования (Jest, Cypress). Работа с интеграциями (Freesound API, Pexels). Навыки DevOps (Prometheus, Grafana). Опыт работы с микросервисами."
+    },
+    {
+        "title": "Middle Python разработчик",
+        "url": "https://hh.ru/vacancy/110956175",
+        "salary": 100000,
+        "description": "Разработка и поддержка веб-приложений на Python с использованием Django и FastAPI (опыт от 3 лет). Глубокое знание принципов ООП..."
+    }
+]
